@@ -1,0 +1,104 @@
+.main1 {
+  text-align: center;
+  text-decoration: underline;
+  background-image: linear-gradient(to right, red, darkgreen, green, yellow);
+}
+.main2 {
+  width: 60%;
+  background-color: rgba(130, 201, 216, 0.908);
+  border: 2px solid red;
+  border-radius: 10px;
+  line-height: 13px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  left: 15%;
+}
+ul.main21 {
+  display: inline-block;
+  text-align: center;
+}
+.main3 {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(60, 212, 161);
+  text-align: center;
+}
+.main30 {
+  display: flex;
+  justify-content: space-around;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+.main31 {
+  width: 30%;
+  background-color: rgb(58, 255, 255);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.main4 {
+  background-image: linear-gradient(to left, red, rgb(255, 255, 0), red);
+  text-decoration: underline;
+  text-align: center;
+  padding-bottom: 1px;
+}
+.main5 {
+  background-image: radial-gradient(rgb(11, 11, 152), rgb(114, 243, 114));
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.main51 {
+  height: 100px;
+  width: 210px;
+  margin: 80px 80px 80px 30px;
+  font-weight: 600;
+  line-height: 25px;
+  /* padding-right: 10px; */
+  color: rgb(113, 31, 31);
+  background-color: rgb(246, 246, 66);
+  text-decoration: underline;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+table {
+  width: 100%;
+  color: white;
+  margin: 5px;
+  border-spacing: 10px;
+}
+.main611 {
+  background-color: rgb(177, 15, 15);
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+.main61 {
+  background-color: rgb(86, 239, 86);
+  text-align: center;
+  font-size: 25px;
+}
+.main62 {
+  background-color: rgb(52, 121, 233);
+  font-size: 25px;
+  width: 32%;
+}
+.main63 {
+  background-color: rgb(45, 13, 133);
+}
+.main64 {
+  background-color: rgb(7, 7, 7);
+  line-height: 10px;
+}
+.main65 {
+  background-color: rgb(224, 158, 14);
+}
+.main66 {
+  color: black;
+  font-weight: 700;
+  text-align: center;
+  background-color: rgb(36, 249, 252);
+}
