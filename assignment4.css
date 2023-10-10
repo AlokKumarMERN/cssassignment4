@@ -14,9 +14,9 @@
   position: relative;
   left: 15%;
 }
-ul.main21 {
+main21 {
   display: inline-block;
-  text-align: center;
+  text-align: start;
 }
 .main3 {
   border: 1px solid black;
